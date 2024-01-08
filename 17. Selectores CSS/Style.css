@@ -1,0 +1,112 @@
+/**{
+    font-size: 25px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;  
+    background-color: azure;
+}*/
+
+/*h1{
+    background-color: indianred;
+} 
+
+h2{
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+}*/
+
+/*h1,h3{
+    color: red;
+}
+
+/*p{
+    color: green;
+}*/
+
+/*#p1,#p3{
+    color: blue;
+}*/
+
+/*body p{
+    color: whitesmoke;
+    font-size: medium;
+    background-color: chartreuse;
+}
+
+.linea_1{
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+
+.enlace2{
+    background-color: brown;
+    color: white;
+    font-size: 55px;
+}
+
+.enlacepiepagina{
+    background-color: black;
+    color: white;
+    font-size: 55px;
+}
+
+p.linea{
+    color: green;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+
+#t1{
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}*/
+
+/*p a{
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+h2 a{
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+}*/
+
+/*h4 > a{
+    color: red;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+p > a{
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+}*/
+
+/*h5 + h6{
+    color: turquoise;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}*/
+
+[class^="linea"]{
+    color: turquoise;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
