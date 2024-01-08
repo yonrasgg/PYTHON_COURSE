@@ -1,0 +1,15 @@
+#identificador{
+    color: lawngreen;
+}
+
+.clase{
+    color: black;
+}
+
+p{
+    color: red;
+}
+
+p{
+    color: green !important;
+}

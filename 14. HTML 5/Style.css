@@ -1,0 +1,100 @@
+header{
+    background-color: gray;
+    border: 10px solid black;
+    width: 880px;
+    height: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center; 
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;   
+}
+
+main{
+    width: 880px;
+    height: 350px;
+    background-color: brown;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+nav{
+    width: 850px;
+    height: 100px;
+    background-color: green;
+    margin: 50px auto;
+    float: center;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+section{
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    margin: 50px auto;
+    border-radius: 1px;
+    text-align: left;
+    padding: 1px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#primero{
+    width: 20px;
+    height: 10px;
+    background-color: yellow;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#segundo{
+    width: 20px;
+    height: 10px;
+    background-color: yellow;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#tercero{
+    width: 20px;
+    height: 10px;
+    background-color: yellow;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+
+aside{
+    width: 150px;
+    height: 300px;
+    background-color: purple;
+    margin: 50px auto;
+    border-radius: 1px;
+    text-align: left;
+    padding: 1px;
+    box-shadow: 10px 10px 10px black;
+}
+
+footer{
+    width: 880px;
+    height: 100px;
+    background-color: orange;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+}
